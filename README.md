@@ -10,7 +10,7 @@
 ![2net](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/6826687d-c509-46d9-a3ed-01d11ad38a87)
 
 # TECH STACK
-* ### **BACKEND** : Node.js, Express.js, Firebase.js<br>
+* ### **BACKEND** : [Node.js](https://nodejs.org/en), Express.js, Firebase.js<br>
 * ### FRONTEND: React.js
 * ### DATABSE: MongoDB
 * ### API: Postman
