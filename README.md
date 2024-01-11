@@ -9,4 +9,3 @@ ADMIN CONTROL
 
 ![2net](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/6826687d-c509-46d9-a3ed-01d11ad38a87)
 
-![3net](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/887e5ef4-6ef2-43be-b3ec-a0101d940c25)
