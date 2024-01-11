@@ -9,7 +9,7 @@ ADMIN CONTROL
 
 ![2net](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/6826687d-c509-46d9-a3ed-01d11ad38a87)
 
-#TECH STACK
+# TECH STACK
 BACKEND: Node.js, Express.js, Firebase.js
 FRONTEND: React.js
 DATABSE: MongoDB
