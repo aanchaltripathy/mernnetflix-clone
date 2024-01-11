@@ -2,4 +2,11 @@
 
 # A Glimpse
   LOGIN
-  ![1net](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/3f16a52d-f784-4ed2-98ad-5e971475ee0b)
+  
+![Screenshot (1363)](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/c9fc013e-7634-4e87-91a3-d83f44f36bff)
+
+ADMIN CONTROL
+
+![2net](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/6826687d-c509-46d9-a3ed-01d11ad38a87)
+
+![3net](https://github.com/aanchaltripathy/mernnetflix-clone/assets/86507308/887e5ef4-6ef2-43be-b3ec-a0101d940c25)
